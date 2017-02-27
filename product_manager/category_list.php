@@ -19,7 +19,6 @@ require_once('database.php');
 
 </main>
 <?php include '../view/footer.php'; ?>
-<?php include 'product_list.php.php'; ?>
 
 
 
