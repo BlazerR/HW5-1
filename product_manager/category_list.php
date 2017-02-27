@@ -1,4 +1,6 @@
+<?php include '../view/footer.php'; ?>
 <?php include '../view/header.php'; ?>
+require_once('database.php');
 <main>
 
     <h1>Category List</h1>
@@ -17,6 +19,7 @@
 
 </main>
 <?php include '../view/footer.php'; ?>
+<?php include 'product_list.php.php'; ?>
 
 
 
