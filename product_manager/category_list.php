@@ -1,5 +1,4 @@
-<?php include '../view/header.php'; ?>
-<?php include '../view/header.php'; ?>
+<?php include '../view/footer.php'; ?>
 <main>
 
     <h1>Category List</h1>
@@ -17,7 +16,7 @@
     <p><a href="index.php?action=list_products">List Products</a></p>
 
 </main>
-<?php include '../view/footer.php'; ?>
+<?php include '../view/header.php'; ?>
 
 
 
