@@ -1,4 +1,4 @@
-<?php include '../view/footer.php'; ?>
+<?php include '../view/header.php'; ?>
 require_once('database.php');
 <main>
 
