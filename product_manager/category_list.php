@@ -47,3 +47,4 @@ $statement->closeCursor();
     </footer>
 </body>
 </html>
+?>
